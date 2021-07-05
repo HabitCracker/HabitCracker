@@ -1,0 +1,8 @@
+header{
+    display: flex;
+    background-color: #d3f4f9;
+}
+
+.center img{
+    width: 300px;
+}
