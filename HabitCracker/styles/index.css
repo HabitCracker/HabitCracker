@@ -1,8 +1,39 @@
 header{
     display: flex;
     background-color: #d3f4f9;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 120px;
+}
+
+.center{
+    display: grid;
+    grid-gap: 7px;
+}
+
+.center .navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
 }
 
 .center img{
     width: 300px;
+}
+
+.right img{
+    width: 250px;
+}
+
+.center .navbar:nth-child(1){
+    
+}
+
+.center .navbar:nth-child(2){
+    
+}
+
+.center .navbar:nth-child(3){
+    
 }
